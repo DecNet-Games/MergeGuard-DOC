@@ -43,7 +43,7 @@ The **Merge Drill** ships in the package. Run setup, then start the drill: Merge
 
 ## Two editions, one codebase
 
-**Standard ($79)** is the setup, resolver, journal, locks and push-check core. **Studio ($149)** adds the Team Lock Board, push-gate reports and check history, and team policy defaults. Studio is the same codebase with the `MERGEGUARD_STUDIO` feature set enabled — there is no separate Studio product to install. See [Editions]({{ site.baseurl }}/docs/editions/).
+**Standard** is the setup, resolver, journal, locks and push-check core. **Studio** adds the Team Lock Board, push-gate reports and check history, and team policy defaults. Studio is the same codebase with the `MERGEGUARD_STUDIO` feature set enabled — there is no separate Studio product to install. See [Editions]({{ site.baseurl }}/docs/editions/).
 
 ![Studio: the Team Lock Board — every scene declaration across the team's local branches, with lock warnings]({{ site.baseurl }}/assets/images/showcase-03-2400x1600.png)
 

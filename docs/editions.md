@@ -2,7 +2,7 @@
 layout: default
 title: Editions — Standard vs Studio
 nav_order: 16
-description: "One codebase, two listings. Standard ($79) is the setup, resolver, journal, locks and push-check core. Studio ($149) adds the Team Lock Board, push-gate reports, check history and team policy."
+description: "One codebase, two listings. Standard is the setup, resolver, journal, locks and push-check core. Studio adds the Team Lock Board, push-gate reports, check history and team policy."
 ---
 
 # Editions — Standard vs Studio
@@ -15,7 +15,7 @@ description: "One codebase, two listings. Standard ($79) is the setup, resolver,
 
 MergeGuard ships as **one codebase** with two listings. Studio is the same package with the `MERGEGUARD_STUDIO` feature set enabled — there is no separate Studio project or second install. What differs is which feature set your licence turns on.
 
-## Standard ($79)
+## Standard
 
 - **MergeGuard Home** — one Editor window (Repo Health, Conflict Resolver, Scene Locks, Push Check, Merge Drill, Settings) with one-click setup and verification
 - **One-click repo setup** — Force Text, visible meta files, the UnityYAMLMerge driver, `.gitattributes` / `.gitignore` blocks, Git LFS tracking when available (reported honestly when not)
@@ -27,7 +27,7 @@ MergeGuard ships as **one codebase** with two listings. Studio is the same packa
 - Documentation set: quick-start, full reference, "what v1 is not"
 - **34 automated EditMode tests (NUnit)** on Unity 6 and on 2022.3 LTS
 
-## Studio ($149) adds
+## Studio — adds
 
 - **Team Lock Board** — every scene and prefab declaration across your team's local branches, with stale and duplicate declarations flagged
 - **Push-Gate Reports** — any push check exported as a self-contained HTML report plus a Markdown summary, suitable for a pull request
